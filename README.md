@@ -1,8 +1,5 @@
 # Mapillary-Apis
 
-
-### Details
-
 This project contain postman api collection of all mapillary.com APIS along with sample response.
 
 ## Postman doc URL
